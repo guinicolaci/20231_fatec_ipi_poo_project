@@ -1,9 +1,9 @@
 ## Grupo composto por:
 
-  Gabriel Hernandes
-  Guilherme Nicolaci
-  Gustavo Nicolaci
-  João Marchette
+  Gabriel Hernandes -
+  Guilherme Nicolaci -
+  Gustavo Nicolaci -
+  João Marchette -
   Mateus Isidorio
 
 ## Getting Started
