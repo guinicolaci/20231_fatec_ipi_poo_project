@@ -1,3 +1,11 @@
+## Grupo composto por:
+
+  Gabriel Hernandes
+  Guilherme Nicolaci
+  Gustavo Nicolaci
+  João Marchette
+  Mateus Isidorio
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
