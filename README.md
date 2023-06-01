@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>
-  Gabriel Hernandes / RA: 204048221xxxx <br>
+  Gabriel Hernandes / RA: 2040482212041 <br>
   Guilherme Nicolaci / RA: 2040482212019 <br>
   Gustavo Nicolaci / RA: 2040482212012 <br>
   João Marchette / RA: 2040482212025 <br>
